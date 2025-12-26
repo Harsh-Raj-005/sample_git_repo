@@ -1,6 +1,6 @@
 #Q1
 
-#Data strutures are ways of organising and storing data so that it can be accessed and modiefied efficiently.
+#Data strutures are ways of organising and storing data so that it can be accessed and modified efficiently.
 #Data structures are vital because they help in organising data efficiently which helps in processing.
 
 #Q2
