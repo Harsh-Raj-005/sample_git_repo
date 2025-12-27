@@ -34,7 +34,7 @@ print("Last column:", last_column)
 
 scores = np.array([85, 92, 78, 60, 95, 70])
 
-high_scores =scores>80
+high_scores =scores[scores>80]
 
 print(high_scores)
 
